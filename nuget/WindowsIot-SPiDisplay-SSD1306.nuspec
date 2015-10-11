@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>WindowsIot-SPiDisplay-SSD1306</id>
+    <version>1.0.0.0</version>
+    <title>WindowsIot-SPiDisplay-SSD1306 </title>
+    <authors>Sely2k</authors>
+    <owners>Sely2k</owners>
+
+    <projectUrl>https://github.com/sely2k/WindowsIot-SPiDisplay-SSD1306</projectUrl>
+
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This lib is for write something with windows io in adafruit ssd1306 128x64 128x32</description>
+    <releaseNotes>Adding of the project</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>WindowsIot adafruit ssd1306 oled 128x32 128x64</tags>
+  </metadata>
+</package>
